@@ -1,21 +1,46 @@
-
-# Instruções
-
-Neste arquivo você fará a sua apresentação, assim como a organização geral das suas entregas ao longo das Sprints. Esperamos que haja, minimamente:
- 
-- Uma seção de apresentação, com foto, informações como cidade de residência, instituição de ensino, curso e semestre atual, experiências na área de tecnologia (se houver), hobbies e outras informações que você julgar importante para os monitores.
-
-- De forma opcional, adicione uma foto ao seu perfil do **GitHub**, pois utilizamos tal informação para facilitar a sua identificação ao longo do processo. Lembre-se que a informação é pública, tal qual você pode testar no exemplo do repositório da [
-The Apache Software Foundation](https://github.com/apache.png?size=250).
-
-
-Veja um modelo de estrutura básica a seguir:
-
 ___
 
-## Apresentação
+# Apresentação
 
-Olá, sou ...
+Olá! Meu nome é Waldir. Sou estudante de Sistemas para Internet, apaixonado por tecnologia e motivado pelo aprendizado contínuo. Embora ainda não tenha experiência profissional na área, tenho buscado desenvolver minhas habilidades através de cursos e projetos pessoais. Acredito que meu comprometimento, disciplina e vontade de aprender são diferenciais que contribuirão significativamente para meu crescimento na área de tecnologia.
+
+## Nome
+**Waldir Pontual de Oliveira Filho**
+
+## Foto
+![Minha Foto](https://media.licdn.com/dms/image/v2/D4D03AQEHFi23kaBxcQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713812642591?e=2147483647&v=beta&t=nREFmBT1HBJ-Ma8hIZbN72een0y5Xk4ObwjNW1ZeRjg)
+
+## Instituição de Ensino
+**UNIESP**
+
+## Curso
+**Sistemas para Internet** – *5º Período*
+
+## Experiências na Área de Tecnologia
+Atualmente, não possuo experiência prática na área de tecnologia, mas estou me qualificando intensamente por meio de cursos e formações reconhecidas no mercado.
+
+## Hobbies
+- Academia  
+- Jiu-jitsu  
+- Leitura de livros  
+- Aprender sobre tecnologia
+
+## Outras Informações Relevantes
+
+### Certificações e Cursos
+
+- **Curso Presencial Programação Fullstack** - profkelson.dev
+- **Curso de DOCKER Completo - Do Zero ao Avançado** - Udemy
+- **Formação Desenvolva aplicações Web com JavaScript** - Alura
+- **Formação Java e Spring Boot** - Alura
+- **Formação React: desenvolva aplicações web usando JSX e Hooks** - Alura
+- **PostgreSQL: Views, Sub-Consultas e Funções** - Alura
+- **Formação A partir do zero: HTML e CSS para projetos web** - Alura
+- **SQL Server: construção do Data Warehouse** - Alura
+- **Modelagem do Data Warehouse: atributos, hierarquia e indicadores** - Alura
+- **Tableau: preparação e transformação de dados** - Alura
+- **Formação Aprenda a programar em Java com Orientação a Objetos** - Alura
+- **PostgreSQL** - Alura
 
 ## Sprints 
 
